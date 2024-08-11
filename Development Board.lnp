@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\Development Board.obj" 
+TO ".\Objects\Development Board" 
+PRINT(".\Listings\Development Board.m51") CODE( 0X0000-0X0FFF )
